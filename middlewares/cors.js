@@ -1,5 +1,5 @@
 const allowedCors = [
-  "https://pindie-front.nomoredomainswork.ru",
+  "https://pindie.nomoredomainswork.ru",
   "http://localhost:3000",
 ];
 
